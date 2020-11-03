@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2013\Projects\SampleWebApplication\SampleWebApplication\bin\SampleWebApplication.dll.config
+c:\users\dell\documents\visual studio 2013\Projects\SampleWebApplication\SampleWebApplication\bin\SampleWebApplication.dll
+c:\users\dell\documents\visual studio 2013\Projects\SampleWebApplication\SampleWebApplication\bin\SampleWebApplication.pdb
+c:\users\dell\documents\visual studio 2013\Projects\SampleWebApplication\SampleWebApplication\obj\Debug\SampleWebApplication.dll
+c:\users\dell\documents\visual studio 2013\Projects\SampleWebApplication\SampleWebApplication\obj\Debug\SampleWebApplication.pdb
+c:\users\dell\documents\visual studio 2013\Projects\SampleWebApplication\SampleWebApplication\obj\Debug\SampleWebApplication.csprojResolveAssemblyReference.cache
